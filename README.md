@@ -1,4 +1,5 @@
 # Vue-Contacts
 
 ### Rest API app with Vue
-### For start app use command npm start
+### App starts on port 3000
+#### For start app use command npm start and open in browser http://localhost:3000
